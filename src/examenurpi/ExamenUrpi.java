@@ -17,6 +17,7 @@ public class ExamenUrpi {
     public static void main(String[] args) {
         System.out.println("Hola Marina");
         System.out.println("Hasta aquí un 2,5");
+        System.out.println("Pues yo creo que mejor me pones el 10(o no) xD");
     }
     
 }

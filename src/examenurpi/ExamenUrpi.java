@@ -16,6 +16,7 @@ public class ExamenUrpi {
      */
     public static void main(String[] args) {
         System.out.println("Hola Marina");
+        System.out.println("Hasta aquí un 2,5");
     }
     
 }
